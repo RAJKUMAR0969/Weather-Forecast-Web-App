@@ -1,1 +1,1 @@
-www.weathermodel.com
+www.weather.com
